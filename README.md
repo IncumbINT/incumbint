@@ -6,5 +6,4 @@ IncumbINT reads the public record of federal procurement (SAM.gov, USAspending, 
 
 https://incumbint.com
 
-Crawling policy: https://incumbint.com/legal/crawler# incumbint
-The relationships behind federal contracting. 
+Crawling policy: https://incumbint.com/legal/crawler
